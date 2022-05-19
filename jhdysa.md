@@ -1,5 +1,5 @@
 {"code":1,"msg":"获取成功","data":[
-{"SurgeId":"tw234r","SurgeUrl":"https://line.me/ti/p/~tw234r"},
-{"SurgeId":"tw234r","SurgeUrl":"https://line.me/ti/p/~tw234r"},
-{"SurgeId":"tw234r","SurgeUrl":"https://line.me/ti/p/~tw234r"}
+{"SurgeId":"twsong88","SurgeUrl":"https://line.me/ti/p/~twsong88"},
+{"SurgeId":"suu041","SurgeUrl":"https://line.me/ti/p/~suu041"},
+{"SurgeId":"suu041","SurgeUrl":"https://line.me/ti/p/~suu041"}
 ]}

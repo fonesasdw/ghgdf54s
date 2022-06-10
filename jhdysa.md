@@ -1,5 +1,5 @@
 {"code":1,"msg":"获取成功","data":[
-{"SurgeId":"ak66556","SurgeUrl":"https://line.me/ti/p/~ak66556"},
-{"SurgeId":"khoo168","SurgeUrl":"https://line.me/ti/p/~khoo168"},
+{"SurgeId":"kun7906","SurgeUrl":"https://line.me/ti/p/~kun7906"},
+{"SurgeId":"fsb3989","SurgeUrl":"https://line.me/ti/p/~fsb3989"},
 {"SurgeId":"ak26999","SurgeUrl":"https://line.me/ti/p/~ak26999"}
 ]}
